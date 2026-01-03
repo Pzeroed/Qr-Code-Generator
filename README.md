@@ -15,7 +15,7 @@ A simple Windows app to generate QR codes. Enter text or a URL, choose a save lo
 
 ## Installation
 
-1. Download `QRCodeGeneratorInstaller.exe` from the Releases page.  
+1. Download `QRCodeGeneratorInstaller_vX.XX.XX.exe` from the Releases page.  
 2. Double-click the installer and follow the prompts.  
 3. (Optional) Choose to create a desktop shortcut.  
 4. Launch the app and start generating QR codes!
@@ -41,6 +41,9 @@ A simple Windows app to generate QR codes. Enter text or a URL, choose a save lo
 ## Version
 **v1.0**  
 - Initial release
+**v1.1.1**  
+- Updated the user experience
+- bug fixes
 
 *Future updates will be listed here with new features or bug fixes.*
 
