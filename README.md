@@ -41,6 +41,7 @@ A simple Windows app to generate QR codes. Enter text or a URL, choose a save lo
 ## Version
 **v1.0**  
 - Initial release
+  
 **v1.1.1**  
 - Updated the user experience
 - bug fixes
